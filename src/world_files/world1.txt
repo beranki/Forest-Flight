@@ -1,0 +1,46 @@
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 0.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 32.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 64.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 96.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_24.png 128.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_01.png 800.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 832.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 864.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 896.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 928.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 960.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 992.0 608.0
+Tree 725.5 333.5
+Chest 896.0 544.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 0.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 0.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 32.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 32.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 64.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 64.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 96.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_12.png 96.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_14.png 128.0 608.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_14.png 128.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 0.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 32.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 64.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_02.png 96.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_03.png 128.0 576.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_07.png 256.0 544.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_08.png 288.0 544.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_08.png 320.0 544.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_09.png 352.0 544.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_07.png 448.0 512.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_09.png 480.0 512.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_32.png 576.0 448.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_33.png 608.0 448.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_33.png 640.0 448.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_34.png 672.0 448.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_32.png 640.0 320.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_33.png 672.0 320.0
+Tile file:src/game-resources/world_sprites/Tiles/Tile_34.png 704.0 320.0
+Spike 512.0 624.0
+Flag 48.0 512.0
+Coin 512.0 320.0
+MainChar 94.0 385.5
